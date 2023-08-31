@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{4FA6D240-8E3B-487D-835C-069AFD4EC9F4}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DapperPract PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.DapperPractData FirstBuild="True" />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/tundey/Projects/DapperPract/DapperPractData/obj/Debug/net7.0/DapperPractData.csproj.AssemblyReference.cache
+/Users/tundey/Projects/DapperPract/DapperPractData/obj/Debug/net7.0/DapperPractData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tundey/Projects/DapperPract/DapperPractData/obj/Debug/net7.0/DapperPractData.AssemblyInfoInputs.cache
+/Users/tundey/Projects/DapperPract/DapperPractData/obj/Debug/net7.0/DapperPractData.AssemblyInfo.cs
+/Users/tundey/Projects/DapperPract/DapperPractData/obj/Debug/net7.0/DapperPractData.csproj.CoreCompileInputs.cache
+/Users/tundey/Projects/DapperPract/DapperPractData/bin/Debug/net7.0/DapperPractData.deps.json
+/Users/tundey/Projects/DapperPract/DapperPractData/bin/Debug/net7.0/DapperPractData.dll
+/Users/tundey/Projects/DapperPract/DapperPractData/bin/Debug/net7.0/DapperPractData.pdb
+/Users/tundey/Projects/DapperPract/DapperPractData/obj/Debug/net7.0/DapperPractData.dll
+/Users/tundey/Projects/DapperPract/DapperPractData/obj/Debug/net7.0/refint/DapperPractData.dll
+/Users/tundey/Projects/DapperPract/DapperPractData/obj/Debug/net7.0/DapperPractData.pdb
+/Users/tundey/Projects/DapperPract/DapperPractData/obj/Debug/net7.0/ref/DapperPractData.dll

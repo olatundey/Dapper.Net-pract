@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "btTdv2UQ2p0P393rGFR5+YGZpJZdOhyr8LTRs0bt/1sENx2Xt+o23sAuncyknfP5Uky1DUHwB53agHDCpstxqQ==",
+  "success": true,
+  "projectFilePath": "/Users/tundey/Projects/DapperPract/DapperPractData/DapperPractData.csproj",
+  "expectedPackageFiles": [
+    "/Users/tundey/.nuget/packages/dapper/2.0.151/dapper.2.0.151.nupkg.sha512",
+    "/Users/tundey/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/tundey/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/tundey/.nuget/packages/mysqlconnector/2.2.7/mysqlconnector.2.2.7.nupkg.sha512"
+  ],
+  "logs": []
+}
